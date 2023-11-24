@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/student-congress/static/css/main.b77ca4e4.css",
-    "main.js": "/student-congress/static/js/main.34357453.js",
+    "main.js": "/student-congress/static/js/main.550140c0.js",
     "static/js/787.8da13daa.chunk.js": "/student-congress/static/js/787.8da13daa.chunk.js",
     "static/media/image1.png": "/student-congress/static/media/image1.58d4f908330018fc837d.png",
     "static/media/img2.jpg": "/student-congress/static/media/img2.34253e0e069ee31a1003.jpg",
     "static/media/ieee_logo.png": "/student-congress/static/media/ieee_logo.6b13bac741700a07f1a2.png",
     "index.html": "/student-congress/index.html",
     "main.b77ca4e4.css.map": "/student-congress/static/css/main.b77ca4e4.css.map",
-    "main.34357453.js.map": "/student-congress/static/js/main.34357453.js.map",
+    "main.550140c0.js.map": "/student-congress/static/js/main.550140c0.js.map",
     "787.8da13daa.chunk.js.map": "/student-congress/static/js/787.8da13daa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b77ca4e4.css",
-    "static/js/main.34357453.js"
+    "static/js/main.550140c0.js"
   ]
 }
