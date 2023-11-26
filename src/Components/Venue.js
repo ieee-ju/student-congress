@@ -31,7 +31,7 @@ function Venue() {
             </div>
             <div className="my-4 text-xl flex flex-row">
               <MdCall size={30}/>
-              <a className='mx-4' href="tel:+919775588256">+91 9775588256</a>
+              <a className='mx-4' href="tel:+919830192359">+91 98301 92359</a>
             </div>
           </div>
         </div>
